@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is cat and I like to fix things, more often than not I break them even more and then things work out alright after that.
 
-### More Information
+### Why start a blog now? 
 
-A place to include any other types of information that you'd like to include about yourself.
+It's the new year! Hopefully 2021 is alright, I hope to update this blog throughout the year with shit I find to be interesting, but if I'm being honest I don't have much confidence in that.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+If you want to get a hold of me, these are the best places to do it.
+
+[email](mailto:me@jmarin.xyz)
+[twitter](https://twitter.com/cat_marinara)
+[github](https://github.com/cat-marin)
